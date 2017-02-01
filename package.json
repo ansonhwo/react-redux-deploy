@@ -2,6 +2,9 @@
   "name": "redux-thunk-middlware",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "6.9.4"
+  },
   "main": "server/index.js",
   "scripts": {
     "start": "node .",
